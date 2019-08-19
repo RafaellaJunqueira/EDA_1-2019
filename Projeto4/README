@@ -1,0 +1,4 @@
+README
+
+* Linha de compilação:    gcc -o prog aeroporto.c
+* Execução:              ./prog

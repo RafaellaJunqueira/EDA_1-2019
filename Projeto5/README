@@ -1,0 +1,6 @@
+README
+
+* O arquivo arvore.h deve estar na mesmo diretório do arquivo arvore.c 
+* Deve haver a pasta BSTs no mesmo diretório do arquivo arvore.c
+* Linha de compilação:  $ gcc -o prog arvore.c
+* Linha de execução:    $ ./prog

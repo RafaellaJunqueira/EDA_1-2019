@@ -1,0 +1,4 @@
+README
+
+* O arquivo lista_dupla.h deve estar na mesma pasta do arquivo lista_dupla.c
+* Linha de compilação: gcc -o prog lista_dupla.c
